@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "className": "addOne",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "x",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "add",
+                    "returnType": "int"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "addOne",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "addone.h",
+    "outputRevision": 68
+}
