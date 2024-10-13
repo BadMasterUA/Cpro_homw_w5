@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2f40c5fdea55fd50c105.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Home_work5_Cpro",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-11887223c5712c7d5570.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-2e744135c985c1eac94c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e17578ba0432869f3a4f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-0075e2fcc241f2de0075.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHome_work5_Cpro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHome_work5_Cpro-Debug-93f3d6bc184c72f3a5de.json",
+					"name" : "appHome_work5_Cpro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHome_work5_Cpro_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHome_work5_Cpro_autogen-Debug-5eaa4f86e605ccccc462.json",
+					"name" : "appHome_work5_Cpro_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHome_work5_Cpro_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHome_work5_Cpro_autogen_timestamp_deps-Debug-a2289f1d2523cd526657.json",
+					"name" : "appHome_work5_Cpro_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHome_work5_Cpro_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHome_work5_Cpro_qmlimportscan-Debug-4ef66e8dfecd26d6ea29.json",
+					"name" : "appHome_work5_Cpro_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHome_work5_Cpro_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHome_work5_Cpro_qmllint-Debug-662da56bd4533e7682c0.json",
+					"name" : "appHome_work5_Cpro_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHome_work5_Cpro_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHome_work5_Cpro_qmllint_json-Debug-dfc494e183c86712a84d.json",
+					"name" : "appHome_work5_Cpro_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHome_work5_Cpro_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHome_work5_Cpro_qmllint_module-Debug-b68a5f0837209ee17eb5.json",
+					"name" : "appHome_work5_Cpro_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHome_work5_Cpro_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHome_work5_Cpro_qmltyperegistration-Debug-87275de3c2e26b706fef.json",
+					"name" : "appHome_work5_Cpro_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHome_work5_Cpro_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHome_work5_Cpro_tooling-Debug-7957cc9f141a1cddd10f.json",
+					"name" : "appHome_work5_Cpro_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "E:/cod/Home_work5_Cpro"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

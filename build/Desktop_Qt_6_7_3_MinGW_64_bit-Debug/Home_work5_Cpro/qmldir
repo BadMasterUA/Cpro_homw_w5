@@ -1,0 +1,5 @@
+module Home_work5_Cpro
+typeinfo appHome_work5_Cpro.qmltypes
+prefer :/qt/qml/Home_work5_Cpro/
+Main 1.0 Main.qml
+

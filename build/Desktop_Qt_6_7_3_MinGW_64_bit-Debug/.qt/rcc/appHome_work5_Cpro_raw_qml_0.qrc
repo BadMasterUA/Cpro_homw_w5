@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Home_work5_Cpro/">
+    <file alias="Main.qml">E:/cod/Home_work5_Cpro/Main.qml</file>
+  </qresource>
+</RCC>
+

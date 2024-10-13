@@ -1,0 +1,14 @@
+-rootPath
+E:/cod/Home_work5_Cpro
+-cmake-output
+-output-file
+E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/qml_imports/appHome_work5_Cpro_conf.cmake
+-importPath
+E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Home_work5_Cpro
+-importPath
+E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.7.3/mingw_64/qml
+-qrcFiles
+E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/qmake_Home_work5_Cpro.qrc
+E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/appHome_work5_Cpro_raw_qml_0.qrc
