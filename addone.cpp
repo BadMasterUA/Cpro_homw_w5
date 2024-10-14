@@ -2,7 +2,9 @@
 
 addOne::addOne(QObject* parent) : QObject(parent){}
 
-int addOne::add(int x)
+int addOne::add()
 {
-    return x + 1;
+    int x = 0;
+
+    return ++x;
 }

@@ -6,12 +6,6 @@
                 "methods": [
                     {
                         "access": "public",
-                        "arguments": [
-                            {
-                                "name": "x",
-                                "type": "int"
-                            }
-                        ],
                         "name": "add",
                         "returnType": "int"
                     }

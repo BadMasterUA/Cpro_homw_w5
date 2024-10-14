@@ -9,7 +9,8 @@ class addOne : public QObject
 public:
     explicit addOne(QObject *parent = nullptr);
 
-    Q_INVOKABLE int add(int x);
+    Q_INVOKABLE int add();
+
 };
 
 #endif // ADDONE_H

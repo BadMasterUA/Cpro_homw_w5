@@ -5,8 +5,8 @@ import QtQuick.Controls 2.5
 import M_AddOneClick
 
 Window {
-    width: 640
-    height: 480
+    width: 320
+    height: 240
     visible: true
     title: qsTr("Click counter")
 
@@ -37,6 +37,7 @@ Window {
             {
                 //переменная с вызовом метода
                 textLabel.text = "Количесвто кликов: " + myClassInstanse.add();
+                console.log('button cklik')
             }
         }
     }
