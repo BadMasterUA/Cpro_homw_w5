@@ -701,9 +701,9 @@
 	"HEADERS" : 
 	[
 		[
-			"E:/cod/Home_work5_Cpro/addone.h",
+			"E:/cod/Home_work5_Cpro/Counter.h",
 			"MU",
-			"EWIEGA46WW/moc_addone.cpp",
+			"EWIEGA46WW/moc_Counter.cpp",
 			null
 		]
 	],
@@ -803,7 +803,7 @@
 	"SETTINGS_FILE" : "E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/appHome_work5_Cpro_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "E:/cod/Home_work5_Cpro/addone.cpp", "MU", null ],
+		[ "E:/cod/Home_work5_Cpro/Counter.cpp", "MU", null ],
 		[ "E:/cod/Home_work5_Cpro/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],

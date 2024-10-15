@@ -2,7 +2,7 @@ import QtQuick 2.5
 import QtQuick.Controls 2.5
 
 //класс с методом addOne
-import M_AddOneClick
+import M_Counter 1.0
 
 Window {
     width: 320
@@ -11,9 +11,9 @@ Window {
     title: qsTr("Click counter")
 
     //подключаем класс
-    AddOne
+    Counter
     {
-        id: myClassInstanse
+        id: counter
     }
 
     //UI
@@ -22,11 +22,13 @@ Window {
         anchors.centerIn: parent
         spacing: 10
 
-        //лейбл с текстом
-        Label
+        //текст
+        Text
         {
-            id: textLabel
-            text: "Количесвто кликов: 0"
+            text: "Кол-во кликов: " + counter.count
+            font.pointSize: 10
+            horizontalAlignment: Text.AlignHCenter
+            verticalAlignment: Text.AlignVCenter
         }
 
         //кнопка
@@ -35,8 +37,8 @@ Window {
             text: "Нажми меня!!!"
             onClicked:
             {
-                //переменная с вызовом метода
-                textLabel.text = "Количесвто кликов: " + myClassInstanse.add();
+                counter.addOne()
+
                 console.log('button cklik')
             }
         }

@@ -1,15 +1,18 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 
-#include "addone.h"
+#include <QQmlContext>
+#include "Counter.h"
 
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
 
-    qmlRegisterType<addOne>("M_AddOneClick", 1, 0, "AddOne");
+    qmlRegisterType<Counter>("M_Counter", 1, 0, "Counter");
     QQmlApplicationEngine engine;
     engine.loadFromModule("Home_work5_Cpro", "Main");
+    if(engine.rootObjects().isEmpty())
+        return -1;
 
     return app.exec();
 }

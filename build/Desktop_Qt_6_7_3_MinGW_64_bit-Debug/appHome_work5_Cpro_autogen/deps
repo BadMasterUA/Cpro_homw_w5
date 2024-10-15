@@ -800,8 +800,8 @@ appHome_work5_Cpro_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
 	E:/cod/Home_work5_Cpro/CMakeLists.txt \
-	E:/cod/Home_work5_Cpro/addone.cpp \
-	E:/cod/Home_work5_Cpro/addone.h \
+	E:/cod/Home_work5_Cpro/Counter.cpp \
+	E:/cod/Home_work5_Cpro/Counter.h \
 	E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/qml_imports/appHome_work5_Cpro_conf.cmake \
 	E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	E:/cod/Home_work5_Cpro/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \

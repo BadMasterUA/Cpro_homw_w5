@@ -17,7 +17,7 @@ qt_add_qml_module(appHome_work5_Cpro
     VERSION 1.0
     QML_FILES
         Main.qml
-        SOURCES addone.h addone.cpp
+        SOURCES Counter.h Counter.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
